@@ -1,0 +1,2 @@
+# Face-mask-Detection-using-CNN
+Covid-19 face mask detection using convolutional neural network, OpenCV, tensorflow, Keras. In this project, this model can identify the mask, without mask and also alert which means that if he or she doesn't wear mask properly, can identify and display. There are four main step to continue it. Create a data set, data pre processing, create a architecture of CNN and deployment.
